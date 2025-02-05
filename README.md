@@ -78,7 +78,7 @@ If you use this repository, please cite our work:
 > **PSMB8 Immunoproteasome activation links α-synuclein pathology and cytotoxic T cell immunity in Parkinson’s disease**  
 > *Submitted to journal*
 
-📜 **License**: MIT License  
+📜 **License**: GPL-3.0 License  
 
 ---
 
