@@ -1,6 +1,6 @@
 <div align="center">
 
-# **PSMB8 Immunoproteasome activation links α-synuclein pathology and cytotoxic T cell immunity in Parkinson's disease**
+# **Pathological role of immunoproteasome PSMB8 in Parkinson's disease: A link between α-synuclein aggregation and immune activation**
 
 </div>
 
@@ -75,7 +75,7 @@ We also express our deep gratitude to **Suk-Jun Song, MSc; Lim Jung Hyun, MSc; a
 ## **📜 Citation**
 If you use this repository, please cite our work:
 
-> **PSMB8 Immunoproteasome activation links α-synuclein pathology and cytotoxic T cell immunity in Parkinson’s disease**  
+> **Pathological role of immunoproteasome PSMB8 in Parkinson's disease: A link between α-synuclein aggregation and immune activation**  
 > *Submitted to journal*
 
 📜 **License**: GPL-3.0 License  
