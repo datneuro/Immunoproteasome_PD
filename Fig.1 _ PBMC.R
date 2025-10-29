@@ -95,7 +95,7 @@ plot_western <- function(data, target_list) {
       add_mean_bar(alpha = 0.4) %>%
       add_sem_errorbar() %>%
       add_data_points_beeswarm() %>%
-      add_test_asterisks(method = "wilcox.test", ref.group = "HC", label.size = 3) %>%
+      add_test_asterisks(method = "wilcox.test", ref.group = "HC",p.adjust.method = "holm", label.size = 3) %>%
       adjust_colors(new_colors = npg_colors) %>%
       adjust_x_axis(title = "") %>%
       adjust_y_axis(title = target_list[[target]], limits = c(0, 4.5)) %>%
