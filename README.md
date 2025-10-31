@@ -2,7 +2,7 @@
 
 # **Pathological role of immunoproteasome PSMB8 in Parkinson's disease: A link between α-synuclein aggregation and immune activation**
 
-[![EBioMedicine](https://img.shields.io/badge/DOI-10.1016/j.ebiom.XXXXX-DA291C?logo=elsevier)](https://doi.org/10.1016/j.ebiom.XXXXX)
+[![EBioMedicine](https://img.shields.io/badge/DOI-10.1016/j.ebiom.XXXXX-DA291C?logo=elsevier)](https://doi.org/10.1016/j.ebiom.2025.105990)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-DA291C)](https://www.gnu.org/licenses/gpl-3.0)
 ![Python](https://img.shields.io/badge/Python-3.9-DA291C?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-4.2-DA291C?logo=r&logoColor=white)
@@ -78,7 +78,7 @@ We also express our deep gratitude to **Suk-Jun Song, MSc; Lim Jung Hyun, MSc; a
 
 ## **📖 Citation**
 If you use this repository, please cite our work:
-> **Pathological role of immunoproteasome PSMB8 in Parkinson's disease: A link between α-synuclein aggregation and immune activation**, Huu Dat Nguyen et al., eBiomedicine, 2025
+> **Pathological role of immunoproteasome PSMB8 in Parkinson's disease: A link between α-synuclein aggregation and immune activation**, Huu Dat Nguyen et al., eBiomedicine, Volume 121, 105990, 2025
 >
 > 
 📜 **License**: GPL-3.0 License  
